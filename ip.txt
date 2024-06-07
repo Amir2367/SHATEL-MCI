@@ -1,4 +1,3 @@
-warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
-warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
-warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
-warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
+warp://188.114.99.109:4233/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
+warp://162.159.192.50:4233/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
+warp://162.159.195.119:4233/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
