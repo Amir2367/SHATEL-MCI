@@ -1,4 +1,4 @@
-warp://162.159.192.174:4233?ifp=10-20
-warp://162.159.192.34:4233?ifp=10-20
-warp://162.159.195.119:4233?ifp=10-20
-warp://188.114.98.163:4233?ifp=10-20
+warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
+warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
+warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
+warp://@auto/?ifp=5-10#🇮🇷 &&detour=warp://@auto/?ifp=5-10#🇩🇪
